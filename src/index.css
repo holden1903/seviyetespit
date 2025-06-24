@@ -1,0 +1,8 @@
+body { margin:0; font-family:Arial,sans-serif; background:#f5f7fa; color:#333; }
+.container { max-width:600px; margin:auto; padding:2rem; background:#fff; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.1); }
+.logo-container{text-align:center;margin-bottom:1rem;}
+.btn-option { display:block; background:#3498db; color:#fff; border:none; padding:0.75rem; margin-bottom:0.75rem; border-radius:4px; cursor:pointer; text-align:left; white-space:normal; }
+.btn-option:hover { background:#2980b9; }
+input{width:100%;padding:0.75rem;margin-bottom:1rem;border:1px solid #ccc;border-radius:4px;}
+table { width:100%; border-collapse:collapse; }
+th,td{padding:0.75rem;border:1px solid #ddd;text-align:left;}
